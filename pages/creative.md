@@ -10,7 +10,7 @@ title: "Творческий сервер"
 
 <details> 
 
-<summary><p>PlotSquared — управление участками</p></summary>
+<summary><p>PlotSquared — Управление участками</p></summary>
 
 ### Основные команды PlotSquared
 
@@ -56,7 +56,7 @@ title: "Творческий сервер"
 
 <details>
 
-<summary><p>WorldEdit — редактирование мира</p></summary>
+<summary><p>WorldEdit — Редактирование мира</p></summary>
 
 ### WorldEdit
 
@@ -68,7 +68,7 @@ title: "Творческий сервер"
 
 <details>
 
-<summary><p>WorldEdit Selection Visualizer — подсетка выделения WorldEdit</p></summary>
+<summary><p>WorldEdit Selection Visualizer — Подсетка выделения WorldEdit</p></summary>
 
 ### WorldEdit Selection Visualizer
 
@@ -216,7 +216,7 @@ GoBrush — тоже самое, но вместо пера используйт
 
 <details>
 
-<summary><p>Light Cleaner — избавьтесь от бага со светом</p></summary>
+<summary><p>Light Cleaner — Избавьтесь от бага со светом</p></summary>
 
 ### Light Cleaner
 
@@ -235,6 +235,22 @@ GoBrush — тоже самое, но вместо пера используйт
 ### SurvivalInvisiframes
 
 `/iframe get` — получить прозрачную рамку
+
+</details>
+
+<details>
+
+<summary><p>Как перенести постройку из сервера с выживанием на творческий</p></summary>
+
+### Перенести постройку из сервера с выживанием
+
+На сервере с выживанием работают команды для выделения из WorldEdit:
+
+Например, `//pos1`, `//pos2`, `//expand` и другие
+
+Вы можете выделить нужную вам территорию, затем написать `//copy` и `//schem save`, чтобы сохранить схематику
+
+Схематики будут синхронизированы c творческим сервером, и вы сможете загрузить их командой `//schem load`, а затем вставить их командой `//paste` на творческом сервере
 
 </details>
 
@@ -260,7 +276,9 @@ GoBrush — тоже самое, но вместо пера используйт
 
 Большой и сложный плагин, который позволяет создавать NPC
 
-Используйте команду `/npc help`, чтобы разобраться в нём самостоятельно. А если не выйдет, то смотрите гайды на Youtube: [](https://www.youtube.com/watch?v=Nja1ih3bKRM&feature=emb_title)
+Используйте команду `/npc help`, чтобы разобраться в нём самостоятельно
+  
+Если не выйдет, то смотрите гайды на Youtube: [https://www.youtube.com/watch?v=Nja1ih3bKRM&feature=emb_title](https://www.youtube.com/watch?v=Nja1ih3bKRM&feature=emb_title)
 
 </details>
   
@@ -272,6 +290,6 @@ GoBrush — тоже самое, но вместо пера используйт
 
 Напишите команду `/hd help`, чтобы узнать, как пользоваться плагином
 
-Если не разберетесь, то вот гайд на Youtube: [](https://www.youtube.com/watch?v=WGI0NGHkKcg&feature=emb_logo)
+Если не разберетесь, то вот гайд на Youtube: [https://www.youtube.com/watch?v=WGI0NGHkKcg&feature=emb_logo](https://www.youtube.com/watch?v=WGI0NGHkKcg&feature=emb_logo)
 
 </details>
