@@ -10,7 +10,7 @@ title: "Творческий сервер"
 
 <details> 
 
-<summary><p>PlotSquared — Управление участками</p></summary>
+<summary>PlotSquared — Управление участками</summary>
 
 ### Основные команды PlotSquared
 
@@ -56,7 +56,7 @@ title: "Творческий сервер"
 
 <details>
 
-<summary><p>WorldEdit — Редактирование мира</p></summary>
+<summary>WorldEdit — Редактирование мира</summary>
 
 ### WorldEdit
 
@@ -68,7 +68,7 @@ title: "Творческий сервер"
 
 <details>
 
-<summary><p>WorldEdit Selection Visualizer — Подсетка выделения WorldEdit</p></summary>
+<summary>WorldEdit Selection Visualizer — Подсетка выделения WorldEdit</summary>
 
 ### WorldEdit Selection Visualizer
 
@@ -80,7 +80,7 @@ title: "Творческий сервер"
 
 <details>
 
-<summary><p>Image On Map — Быстро переносите картинки из интернета на карты в игре</p></summary>
+<summary>Image On Map — Быстро переносите картинки из интернета на карты в игре</summary>
 
 ### Image On Map
 
@@ -112,7 +112,7 @@ title: "Творческий сервер"
 
 <details>
 
-<summary><p>Head Database — Крутые декоративные головы</p></summary>
+<summary>Head Database — Крутые декоративные головы</summary>
 
 ### Head Database
 
@@ -128,7 +128,7 @@ title: "Творческий сервер"
 
 <details>
 
-<summary><p>Builder's Utilities — Удобные фишки для строителей</p></summary>
+<summary>Builder's Utilities — Удобные фишки для строителей</summary>
 
 ### Builder's Utilities
 
@@ -198,7 +198,7 @@ title: "Творческий сервер"
 
 <details> 
 
-<summary><p>GoPaint & GoBrush — Кисти для строительства ландшафтов</p></summary>
+<summary>GoPaint & GoBrush — Кисти для строительства ландшафтов</summary>
 
 ### GoPaint & GoBrush
 
@@ -216,7 +216,7 @@ GoBrush — тоже самое, но вместо пера используйт
 
 <details>
 
-<summary><p>Light Cleaner — Избавьтесь от бага со светом</p></summary>
+<summary>Light Cleaner — Избавьтесь от бага со светом</summary>
 
 ### Light Cleaner
 
@@ -230,7 +230,7 @@ GoBrush — тоже самое, но вместо пера используйт
 
 <details>
 
-<summary><p>SurvivalInvisiframes — Добавляет прозрачные рамки</p></summary>
+<summary>SurvivalInvisiframes — Добавляет прозрачные рамки</summary>
 
 ### SurvivalInvisiframes
 
@@ -240,7 +240,7 @@ GoBrush — тоже самое, но вместо пера используйт
 
 <details>
 
-<summary><p>Как перенести постройку из сервера с выживанием на творческий</p></summary>
+<summary>Как перенести постройку из сервера с выживанием на творческий</summary>
 
 ### Перенести постройку из сервера с выживанием
 
@@ -256,7 +256,7 @@ GoBrush — тоже самое, но вместо пера используйт
 
 <details>
 
-<summary><p>Прочие команды</p></summary>
+<summary>Прочие команды</summary>
 
 ### Прочие команды
 
@@ -270,7 +270,7 @@ GoBrush — тоже самое, но вместо пера используйт
 
 <details>
 
-<summary><p>Citizens — Создавайте NPC</p></summary>
+<summary>Citizens — Создавайте NPC</summary>
 
 ### Citizens
 
@@ -284,7 +284,7 @@ GoBrush — тоже самое, но вместо пера используйт
   
 <details>
   
-<summary><p>Holographic Display — Текст в воздухе</p></summary>
+<summary>Holographic Display — Текст в воздухе</summary>
 
 ### Holographic Display
 
