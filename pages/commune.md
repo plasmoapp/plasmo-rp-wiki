@@ -86,18 +86,18 @@ title: "Как создать общину"
     
 2. Напишите команду `/setdonor rp/smp`, чтобы установить сервер из которого бот будет брать роли и ники. SMP или RP. По умолчанию стоит RP
     
-![]()
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/commune/setdonor.png?raw=true)
     
-![]()
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/commune/setdonor_rp.png?raw=true)
     
 3. Создайте роли, которые будет синхронизировать бот. Их можно назвать как угодно, поставить любой цвет и любые права. Если вы не хотите синхронизировать роли, то можете пропустить этот пункт. Не обязательно синхронизировать все роли, можно синхронизировать только нужные вам
 4. Перетащите роль `Plasmo Sync` выше ролей, которые будет выдавать бот. Если роль бота будет ниже других ролей, то бот не сможет выдать роли
     
-![]()
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/commune/role_order.png?raw=true)
     
 5. Напишите команду `/setroleplayer/fusion/helper@role`, чтобы указать боту какие роли синхронизировать. Например `/setrole player@Игрок Plasmo RP` сделает так, чтобы игроки сервера получали роль `@Игрок Plasmo RP`
     
-![]()
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/commune/setrole.png?raw=true)
     
 Повторите это для всех ролей, или не повторяйте, указывать все роли не обязательно
     
@@ -105,27 +105,27 @@ title: "Как создать общину"
     
 6. Напишите команду `/settings` , чтобы проверить настройки бота, прежде чем запустить синхронизацию
     
-![]()
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/commune/settings.png?raw=true)
     
 `/on-join` — Включить/Выключить автоматическую синхронизацию при входе пользователя на сервер
     
-![]()
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/commune/onjoin.png?raw=true)
     
 `/sync-nicknames` — Включить/Выключить синхронизацию ников
     
-![]()
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/commune/syncnicknames.png?raw=true)
     
 `/sync-roles` — Включить/Выключить синхронизацию ролей
     
-![]()
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/commune/syncroles.png?raw=true)
     
 7. Напишите команду `/everyone-sync`, чтобы синхронизировать всех участников сервера
     
-![]()
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/commune/everyonesync.png?raw=true)
     
-Сделать это нужно **только один раз**, новые пользователи будут синхронизироваться автоматически(если настройка on-join в состоянии True). Может занять от двух секунд до двух минут из-за лимитов Discord
+Сделать это нужно **только один раз**, новые пользователи будут синхронизироваться автоматически (если настройка on-join в состоянии True). Может занять от двух секунд до двух минут из-за лимитов Discord
     
-![]()
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/commune/everyonesync_done.png?raw=true)
 
 8. Поздравляю, вы настроили бота, и теперь он будет синхронизировать всех участников сервера, и обновлять ники и роли если они поменяются на основном сервере
 
@@ -133,8 +133,8 @@ title: "Как создать общину"
 
 - `/sync @user` — Синхронизирует одного конкретного пользователя
 
-![]()
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/commune/sync.png?raw=true)
 
 - `/status` — Показывает состояние бота
     
-![]()
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/commune/status.png?raw=true)
