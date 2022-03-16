@@ -8,7 +8,7 @@ title: "Моды для сервера"
 
 [**Emote Craft**](https://www.curseforge.com/minecraft/mc-mods/emotecraft) — добавляет анимированные эмоции
 
-Оба мода доступны на Forge и Fabric. Если вы всё ещё не знаете как устанавливать моды, то ищите в гугле
+Оба мода доступны на Forge и Fabric. Если вы всё ещё не знаете как устанавливать моды, то [нажмите сюда](https://www.google.com/search?channel=fs&client=ubuntu&q=%D0%9A%D0%B0%D0%BA+%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C+Fabric)
 
 # Plasmo Voice
 
