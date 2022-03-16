@@ -7,7 +7,7 @@ title: "Механики и команды"
 
 На Plasmo PR можно играть одному, но общение с игроками — это самая интересная часть сервера. Поэтому мы рекомендуем вступить или создать общину
 
-![]()
+<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/features/communes.png?raw=true" style="width: 512px">
 
 **Выберите общину, чтобы вступить в неё:** [https://rp.plo.su/teams/](https://rp.plo.su/teams/)
 
@@ -17,9 +17,13 @@ title: "Механики и команды"
 
 Каждый игрок определяет РП по своему, и ожидает от РП сервера разное. Мы стараемся угодить всем игрокам, поэтому позволяем выбрать комфортный для вас режим игры: **нонРП или РП**
 
-![]()
+<div style="dispay: inline-block">
+  
+<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/features/nonrp.png?raw=true" style="width: 360px">
 
-![]()
+<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/features/rp.png?raw=true" style="width: 360px">
+
+</div>
 
 <details>
 
@@ -27,7 +31,7 @@ title: "Механики и команды"
 
 ### Что такое нонРП
 
-![]()
+<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/features/nonrp.png?raw=true" style="width: 512px">
 
 Сервер — это выдуманный мир, но персонажи в этом мире — это реальные люди
 
@@ -45,7 +49,7 @@ title: "Механики и команды"
 
 ### Что такое РП
 
-![]()
+<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/features/rp.png?raw=true" style="width: 512px">
 
 Оставляем выдуманный мир, убираем связь с реальным миром, и заменяем реальных людей на выдуманных РП персонажей
 
@@ -67,7 +71,7 @@ title: "Механики и команды"
 
 Напишите команду `/ch` чтобы открыть меню плагина на персонажей. Тут вы можете выбрать нонРП или РП персонажа. У каждого персонажа есть своя роль, имя и скин
 
-![]()
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/features/ch.png?raw=true)
 
 Когда вы выбираете РП персонажа — вы обязываетесь соблюдать ограничения РП, которые описаны в пункте по то, что такое РП. Будучи РП персонажем — вы не можете взаимодействовать с реальным миром
 
@@ -100,19 +104,19 @@ title: "Механики и команды"
 
 Перемещение по аду в 8 раз быстрее, чем в обычном мире.  Поэтому для быстрого перемещения по миру — в аду создана система адских веток. Они идут от центра мира, нулевых координат, где находится адский хаб
 
-![]()
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/features/hub.png?raw=true)
 
 ## Плагин на метки
 
 Чтобы вам не приходилось запоминать координаты всех порталов в аду — на сервере стоит самописный плагин на метки
 
-![]()
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/features/marx_info.png?raw=true)
 
 ## Меню меток
 
 Напишите команду `/x` или `/marx` , чтобы открыть меню плагина на метки
 
-![]()
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/features/marx.png?raw=true)
 
  Тут можно смотреть ваши метки, добавлять их в избранное, искать и создавать метки
 
@@ -122,7 +126,7 @@ title: "Механики и команды"
 
 Вы можете искать метки на [нашем сайте](https://rp.plo.su/map/). Например, если вам нужен портал в энд, то напишите в поиск `"Энд"`
 
-![]()
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/features/marx_site.png?raw=true)
 
 Вы найдете все энд порталы, и сможете выбрать ближайший к вам
 
@@ -138,7 +142,7 @@ title: "Механики и команды"
 
 Метки отображаются на карте. В аду отображаются ветки, которые ведут к порталам
 
-![]()
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/features/map_nether.png?raw=true)
 
 # Как пользоваться чатом
 
@@ -154,7 +158,7 @@ title: "Механики и команды"
 
 Например: `Эй, посмотри, где я сейчас нахожусь :loc:`
 
-![]()
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/features/loc.png?raw=true)
 
 Отправляйте метки в чат. Например: `:m1:`, `:м1:` Работает как на русском, так и на английском. Вместо `1` введите любой номер метки
 
@@ -182,7 +186,7 @@ title: "Механики и команды"
 
 **Посмотреть карту можно тут:** [https://rp.plo.su/map](https://rp.plo.su/map)
 
-![]()
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/features/map.png?raw=true)
 
 Чтобы не отображаться на карте — используйте команды: 
 
@@ -192,7 +196,7 @@ title: "Механики и команды"
 
 Мы сделали мод на голосовой чат внутри игры — Plasmo Voice
 
-![]()
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/features/voice.png?raw=true)
 
 Основная особенность нашего мода в том, что он опционален. Сервер остается ванильным, и вы можете зайти на него без этого мода. В отличии от других модов, которые нужно устанавливать обязательно
 
@@ -210,12 +214,6 @@ title: "Механики и команды"
 
 Мир построек, мир ферм и энд — это отдельные сервера, между которыми распределяется нагрузка, поэтому сервер лагает меньше
 
-<details>
-
-<summary>Подробнее про систему миров</summary>
-  
-</details>
-
 # Смена ника
 
 Вы можете самостоятельно поменять ник на сервере. Все вещи, метки, статистика, общины и достижения перенесутся на новый ник
@@ -224,7 +222,7 @@ title: "Механики и команды"
 
 Перед сменой убедитесь, что вы не находитесь на сервере, и ваш ник не занят. Менять ник можно раз в 3 дня
 
-![]()
+<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/features/nick.png?raw=true" style="width: 512px">
 
 # Банк
 
@@ -232,13 +230,9 @@ title: "Механики и команды"
 
 Через банк можно оплачивать аренду метки и штрафы
 
-![]()
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/features/bank.gif?raw=true)
 
-<details>
-
-<summary>Подробнее про банк</summary>
-  
-</details>
+Оформить карточку можно у банкира. Банкирами работают обычные игроки. Обычно найти их можно в банке на спавне
 
 # Другие мелкие фишки
 
@@ -247,7 +241,7 @@ title: "Механики и команды"
 
 <summary>Плагин на позы</summary>
 
-![]()
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/features/gsit.png?raw=true)
     
 Чтобы сесть, можно также просто нажать ПКМ по ступеньке, коврику или полублоку
   
@@ -259,7 +253,7 @@ title: "Механики и команды"
 
 Странствующий торговец теперь продает мини-версии блоков (Vanilla Tweaks)
 
-![]()
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/features/heads.png?raw=true)
   
 </details>
 
@@ -269,7 +263,7 @@ title: "Механики и команды"
 
 Чтобы создать прозрачные рамки — обложите зелье невидимости из дыхания дракона (0:45) обычными рамками
 
-![]()
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/features/frames.png?raw=true)
   
 </details>
 
