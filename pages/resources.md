@@ -6,7 +6,7 @@ title: "Ресурспак сервера"
 
 # Эмоуты в чате
 
-<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/resources/emotes.png?raw=true" style="width: 512px"/>
+<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/resources/emotes.webp?raw=true" style="width: 854px"/>
 
 1. Скачайте [ресурспак](https://github.com/plasmoapp/plasmo-rp-wiki/raw/main/assets/resources/emotes.zip)
 2. Перекиньте его в папку `.minecraft/resourcepacks/`
