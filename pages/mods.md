@@ -30,7 +30,7 @@ title: "Моды для сервера"
 
 Зажмите ПКМ и крутите колёсико мыши, чтобы изменять громкость не заходя в меню
 
-<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/voice_scroll.gif?raw=true" style="width: 854px"/>
+<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/voice_scroll.webp?raw=true" style="width: 854px"/>
 
 ## Значение HUD иконок
 
@@ -42,11 +42,11 @@ title: "Моды для сервера"
 
 # EmoteCraft
 
-<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/emotecraft.gif?raw=true" style="width: 854px"/>
+<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/emotecraft.webp?raw=true" style="width: 854px"/>
 
 Мод EmoteCraft добавляет анимированные эмоции. Он работает как мод на голосовой чат — вы можете зайти на сервер с ванильного клиента, но чтобы использовать эмоции и видеть эмоции других игроков — вам нужно установить мод для Fabric или Forge
 
-<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/emotecraft_howto.gif?raw=true" style="width: 854px"/>
+<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/emotecraft_howto.webp?raw=true" style="width: 854px"/>
 
 1. Нажмите на кнопку `B` по умолчанию, чтобы открыть меню с эмоциями
 2. Кликните по кнопку в правом нижнем углу `Все эмоции` , а затем на кнопку `Настройка эмоций` , чтобы настроить эмоции
