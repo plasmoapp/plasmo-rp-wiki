@@ -26,30 +26,32 @@ title: "Моды для сервера"
 
 Зайдите в социальное меню Minecraft, чтобы заглушать и изменить громкость игроков. Кнопка `P` по умолчанию
 
-<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/voice_social.png?raw=true" style="width: 640px"/>
+<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/voice_social.png?raw=true" style="width: 854px"/>
 
 Зажмите ПКМ и крутите колёсико мыши, чтобы изменять громкость не заходя в меню
 
-![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/voice_scroll.gif?raw=true)
+<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/voice_scroll.gif?raw=true" style="width: 854px"/>
 
 ## Значение HUD иконок
 
-<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/voice_hud_icons.png?raw=true" style="width: 640px"/>
+<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/voice_hud_icons.png?raw=true" style="width: 854px"/>
 
 ## Значение иконок над игроками
 
-<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/voice_player_icons.png?raw=true" style="width: 640px"/>
+<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/voice_player_icons.png?raw=true" style="width: 854px"/>
 
 # EmoteCraft
 
-![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/emotecraft.png?raw=true)
+<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/emotecraft.gif?raw=true" style="width: 854px"/>
 
 Мод EmoteCraft добавляет анимированные эмоции. Он работает как мод на голосовой чат — вы можете зайти на сервер с ванильного клиента, но чтобы использовать эмоции и видеть эмоции других игроков — вам нужно установить мод для Fabric или Forge
 
+<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/emotecraft_howto.gif?raw=true" style="width: 854px"/>
+
 1. Нажмите на кнопку `B` по умолчанию, чтобы открыть меню с эмоциями
-2. Кликните по кнопку в правом нижнем углу `All emotes` , а затем на кнопку `Config emotes` , чтобы настроить эмоции
+2. Кликните по кнопку в правом нижнем углу `Все эмоции` , а затем на кнопку `Настройка эмоций` , чтобы настроить эмоции
 3. Кликните по эмоции, а затем по месту в круге эмоций, куда вы хотите её установить
-4. Нажмите кнопку `Done` и снова нажмите `B`, чтобы открыть меню эмоций и протестировать эмоции новые вы установили
+4. Нажмите кнопку `Готово` и снова нажмите `B`, чтобы открыть меню эмоций и протестировать эмоции новые вы установили
 5. Чтобы установить больше эмоций, скачайте их, а затем перекиньте в папку `.minecraft/emotes`
 
 **Скачать больше эмоций:** [https://github.com/KosmX/Emotecraft-emotes/tree/master/emotes](https://github.com/KosmX/Emotecraft-emotes/tree/master/emotes)
