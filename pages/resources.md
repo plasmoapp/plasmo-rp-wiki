@@ -2,14 +2,25 @@
 title: "Ресурспак сервера"
 ---
 
-Сейчас ресурспак добавляет только эмоуты в чате, но скоро мы добавим в него больше фишек
+Ресурспак опциональный, устаналивать его не обязательно. Но, он добавляет много крутых фич, поэтому мы рекомендуем играть с этим ресурспаком
 
-# Эмоуты в чате
-
-<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/resources/emotes.webp?raw=true" style="width: 854px"/>
-
-1. Скачайте [ресурспак](https://github.com/plasmoapp/plasmo-rp-wiki/raw/main/assets/resources/emotes.zip)
+1. Скачайте [ресурспак](https://github.com/plasmoapp/plasmo-rp-wiki/raw/main/assets/resources/PlasmoPack.zip)
 2. Перекиньте его в папку `.minecraft/resourcepacks/`
 3. Активируйте ресурспак в настройках
-4. Напиши команду `/emotes`, чтобы посмотреть список эмоутов
-5. Если эмоуты отображаются как белые прямоугольники, зайдите в выбор языка и выключите `Шрифт Unicode`
+4. Чтобы работали новые предметы — установите [Optifine](https://optifine.net/home) или [CIT Resewn](https://www.curseforge.com/minecraft/mc-mods/cit-resewn)
+
+## Эмоуты в чате
+
+<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/resources/emotes.webp?raw=true" style="width: 800px"/>
+
+Команда `/emotes` — посмотреть список эмоутов
+
+## Другие фичи ресурспака
+
+*Скоро дополним скриншотами*
+
+ㆍНовые предметы по переименованию: Много разной еды, напитки, наручники
+
+ㆍТотемы и куклы со скинами игроков: Plasmo Totems
+
+ㆍЛоготип и иконки в табе
