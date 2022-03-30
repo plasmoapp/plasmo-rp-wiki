@@ -18,7 +18,7 @@ title: "Моды для сервера"
 
 Выберете микрофон, а затем нажмите на иконку рядом с `Порог активации`. Если полоска становится зеленой, значит микрофон работает
 
-![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/voice_test.webp?raw=true)
+<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/voice_test.webp?raw=true" style="width: 854px"/>
 
 Выйдите из меню и нажмите на левый альт, чтобы говорить. Изменить кнопку можно в вкладке `Клавиши`
 
