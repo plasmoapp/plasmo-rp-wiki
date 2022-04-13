@@ -21,6 +21,12 @@ title: "Ресурспак сервера"
 
 ㆍНовые предметы по переименованию: Много разной еды, напитки, наручники
 
+<img src="https://i.imgur.com/VthY0HC.png"/>
+
 ㆍТотемы и куклы со скинами игроков: Plasmo Totems
 
+<img src="https://i.imgur.com/CUxe1zs.png"/>
+
 ㆍЛоготип и иконки в табе
+
+<img src="https://i.imgur.com/VFmu72O.png"/>
