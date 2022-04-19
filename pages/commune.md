@@ -17,13 +17,13 @@ title: "Как создать общину"
 
 Желательно использовать шейдеры [BSL](https://bitslablab.com/)
 
-1. Зайдите на сайт [https://imgur.com/](https://imgur.com/) и загрузите альбом с картинками. Если вас просят зарегистрироваться, то отключите адблок
+1. Зайдите на сайт [imgur.com](https://imgur.com/) и загрузите альбом с картинками. Если вас просят зарегистрироваться, то отключите адблок
 3. Возьмите ссылку на альбом из адресной строки браузера. У вас будет ссылка в формате `imgur.com/a/paapaEaz`
 4. Скопируйте `<url альбома>` после `/a/`. В этом случае это `paapaEaz`
 5. Добавьте альбом: `/teams imgur <id> <url альбома>`
 
 ## 3. Добавьте баннер
-1. Зайдите на сайт [https://www.planetminecraft.com/banner/](https://www.planetminecraft.com/banner/) и создайте баннер
+1. Зайдите на сайт [www.planetminecraft.com/banner](https://www.planetminecraft.com/banner/) и создайте баннер
 2. Скопируйте ссылку из поля Shareable URL. Например: `https://www.planetminecraft.com/banner/?b=c5d`
 3. Добавьте баннер: `/teams banner <id> <Sharable URL>`
 
@@ -33,7 +33,7 @@ title: "Как создать общину"
 
 Если в вашу общину идёт набор — напишите, что нужно сделать, чтобы попасть в общину
 
-1. Зайдите на сайт [https://pastebin.com/](https://pastebin.com/) и напишите текст
+1. Зайдите на сайт [pastebin.com](https://pastebin.com/) и напишите текст
 2. Нажмите на кнопку `Create New Paste`, чтобы создать пасту
 3. Скопируйте `<url>` из конца ссылки. Если ссылка `pastebin.com/6fXGxUUC`, то скопируйте `6fXGxUUC`
 4. Добавьте информацию: `/teams info <id> <url>`
@@ -74,7 +74,7 @@ title: "Как создать общину"
 
 # Бот Plasmo Sync
 
-Игрок сервера [_howkawgew](https://peepoclown.ru) написал бота Plasmo Sync для Discord, который автоматически синхронизирует ники и роли игроков с никами и ролями в игре. Plasmo Sync создан для ваших серверов, и устанавливается по ссылке, как любой Discord бот
+Игрок сервера [_howkawgew](https://t.me/peeeposad) написал бота Plasmo Sync для Discord, который автоматически синхронизирует ники и роли игроков с никами и ролями в игре. Plasmo Sync создан для ваших серверов, и устанавливается по ссылке, как любой Discord бот
 
 Добавьте бота на Discord сервер вашей общины и бот выдаст роль игрокам сервера, и изменит их ники, чтобы они совпадали с никами в игре
 
@@ -82,9 +82,9 @@ title: "Как создать общину"
 
 ## Как установить бота
 
-1. Перейдите по [ссылке](https://discord.com/api/oauth2/authorize?client_id=842301877400240140&permissions=402655232&redirect_uri=https%3A%2F%2Fwww.notion.so%2FDiscord-9827cd8b10ee4c33920d9c973ad90a6a&scope=bot%20applications.commands), чтобы пригласить бота на ваш сервер. У бота должны быть права, чтобы выдавать роли и изменять никнеймы
+1. Перейдите по [ссылке](https://discord.com/api/oauth2/authorize?client_id=842301877400240140&permissions=8&scope=bot%20applications.commands), чтобы пригласить бота на ваш сервер. У бота должны быть права, чтобы выдавать роли и изменять никнеймы
     
-2. Напишите команду `/setdonor rp/smp`, чтобы установить сервер из которого бот будет брать роли и ники. SMP или RP. По умолчанию стоит RP
+2. Напишите команду `/setdonor rp/smp/frp`, чтобы установить сервер из которого бот будет брать роли и ники. SMP, FRP или RP. По умолчанию стоит RP
     
 ![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/commune/setdonor.png?raw=true)
     
@@ -95,13 +95,13 @@ title: "Как создать общину"
     
 ![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/commune/role_order.png?raw=true)
     
-5. Напишите команду `/setroleplayer/fusion/helper@role`, чтобы указать боту какие роли синхронизировать. Например `/setrole player@Игрок Plasmo RP` сделает так, чтобы игроки сервера получали роль `@Игрок Plasmo RP`
+5. Напишите команду `/setrole Игрок/Fusion/... @role`, чтобы указать боту какие роли синхронизировать. Например `/setrole player @Игрок Plasmo RP` сделает так, чтобы игроки сервера получали роль `@Игрок Plasmo RP`
     
 ![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/commune/setrole.png?raw=true)
     
 Повторите это для всех ролей, или не повторяйте, указывать все роли не обязательно
     
-Чтобы сбросить роль — напишите команду `/resetroleplayer/fusion/helper`
+Чтобы сбросить роль — напишите команду `/resetrole player/fusion/...`
     
 6. Напишите команду `/settings` , чтобы проверить настройки бота, прежде чем запустить синхронизацию
     
