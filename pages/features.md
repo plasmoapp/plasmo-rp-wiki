@@ -156,7 +156,7 @@ title: "Механики и команды"
 
 Напишите `:loc:` чтобы отправить ваши координаты в чат
 
-Например: `Эй, посмотри где я сейчас нахожусь :loc:`
+Например: `Эй, посмотри, где я сейчас нахожусь :loc:`
 
 ![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/features/loc.png?raw=true)
 
