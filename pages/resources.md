@@ -19,12 +19,12 @@ title: "Ресурспак сервера"
 
 ㆍНовые предметы по переименованию: Много разной еды, напитки, наручники
 
-<img src="https://i.imgur.com/VthY0HC.png"/>
+<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/resources/hotbar.webp?raw=true"/>
 
 ㆍТотемы и куклы со скинами игроков: Plasmo Totems
 
-<img src="https://i.imgur.com/CUxe1zs.png"/>
+<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/resources/totems.webp?raw=true"/>
 
 ㆍЛоготип и иконки в табе
 
-<img src="https://i.imgur.com/VFmu72O.png"/>
+<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/resources/tab.webp?raw=true"/>
