@@ -42,8 +42,6 @@ title: "Творческий сервер"
 
 `/p allow <игрок>` — Разрешить доступ к участку игроку, если вы запретили доступ всем остальным
 
-`/p setowner <игрок>` — Передать плот другому игроку
-
 ### Настройка плота
 
 `/p flag list` — Узнать какие флаги можно установить
@@ -62,7 +60,7 @@ title: "Творческий сервер"
 
 Плагин слишком большой и сложный, и все и так его знают, поэтому мне лень писать по нему гайд
   
-Если вы не знаете, то можете прочитать вот этот: [https://minecraft.fandom.com/ru/wiki/WorldEdit](https://minecraft.fandom.com/ru/wiki/WorldEdit)
+Если вы не знаете, то можете прочитать вот этот: [minecraft.fandom.com/ru/wiki/WorldEdit](https://minecraft.fandom.com/ru/wiki/WorldEdit)
 
 </details>
 
