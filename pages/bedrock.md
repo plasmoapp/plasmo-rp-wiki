@@ -64,7 +64,7 @@ Geyser это прокси, которое позволяет зайти с Mine
 
 ![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/bedrock/connect.png?raw=true)
 
-После того, как вы зайдете, вас попросит нажать на ссылку в чате, чтобы авторизоваться
+После того как вы зайдете, вас попросит нажать на ссылку в чате, чтобы авторизоваться
 
 ![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/bedrock/login.png?raw=true)
 

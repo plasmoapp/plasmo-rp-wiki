@@ -54,6 +54,6 @@ title: "Моды для сервера"
 4. Нажмите кнопку `Готово` и снова нажмите `B`, чтобы открыть меню эмоций и протестировать новые эмоции
 5. Чтобы установить больше эмоций, скачайте их, а затем перекиньте в папку `.minecraft/emotes`
 
-**Скачать больше эмоций:** [https://github.com/KosmX/Emotecraft-emotes/tree/master/emotes](https://github.com/KosmX/Emotecraft-emotes/tree/master/emotes)
+**Скачать больше эмоций:** [github.com/KosmX/Emotecraft-emotes/tree/master/emotes](https://github.com/KosmX/Emotecraft-emotes/tree/master/emotes)
 
-**Гайд по созданию эмоций в Blender или Blockbench:** [https://kosmx.gitbook.io/emotecraft/tutorial/custom-emotes](https://kosmx.gitbook.io/emotecraft/tutorial/custom-emotes)
+**Гайд по созданию эмоций в Blender или Blockbench:** [kosmx.gitbook.io/emotecraft/tutorial/custom-emotes](https://kosmx.gitbook.io/emotecraft/tutorial/custom-emotes)
