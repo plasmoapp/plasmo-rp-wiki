@@ -72,7 +72,7 @@ title: "Творческий сервер"
 
 Показывает выделенную территорию частицами. Можно включать и выключать командой `/wesv toggle`
 
-![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/creative/wesv.png?raw=true)
+![](/assets/creative/wesv.png)
 
 </details>
 
@@ -101,7 +101,7 @@ title: "Творческий сервер"
     - `resize-stretched` , чтобы растянуть
     - `resize-covered`, чтобы обрезать
 
-![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/creative/imageonmap.png?raw=true)
+![](/assets/creative/imageonmap.png)
         
 - Команда `/maps` открывает GUI, в котором вы можете управлять созданными вами картами
 - Команда `/maptool` дополнительные инструменты для управления картами, которая скорее всего вам не будет нужна, но она есть
@@ -120,7 +120,7 @@ title: "Творческий сервер"
 
 `/phead <ник>` — получить голову игрока
 
-![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/creative/hdb.png?raw=true)
+![](/assets/creative/hdb.png)
 
 </details>
 
@@ -136,7 +136,7 @@ title: "Творческий сервер"
 
 Команда `/bu` или `/butil` открывает меню, в котором вы можете включить следующие возможности:
 
-![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/creative/bu1.png?raw=true)
+![](/assets/creative/bu1.png)
 
 - Открывать железные люки как деревянные
 - Ломать только один полублок, вместо двух
@@ -149,16 +149,16 @@ title: "Творческий сервер"
 
 `/secretblocks`, `/blocks` — Меню, в котором вы можете быстро получить блоки, которые нельзя найти в творческом инвентаре. Барьер, яйцо дракона, дебаг-палку и спавнер
 
-![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/creative/bu2.png?raw=true)
+![](/assets/creative/bu2.png)
 
 `/banner`, `/bm` — Открывает редактор баннеров
 
-![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/creative/bu3.gif?raw=true)
+![](/assets/creative/bu3.gif)
 
 
 `/color`, `/armorcolor` — Редактор цвета кожаной брони
 
-![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/creative/bu4.gif?raw=true)
+![](/assets/creative/bu4.gif)
 
 `/noclip`, `/nc` — Переключает No-clip
 

@@ -14,39 +14,40 @@ title: "Моды для сервера"
 
 Нажмите на клавишу `V` по умолчанию, чтобы открыть меню мода
 
-![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/voice_mic.png?raw=true)
+![](/assets/mods/voice_mic.png?raw=true)
 
 Выберете микрофон, а затем нажмите на иконку рядом с `Порог активации`. Если полоска становится зеленой, значит микрофон работает
 
-<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/voice_test.webp?raw=true" style="width: 854px"/>
+![](/assets/mods/voice_test.webp)
 
 Выйдите из меню и нажмите на левый альт, чтобы говорить. Изменить кнопку можно в вкладке `Клавиши`
 
-![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/voice_keys.png?raw=true)
+![](/mods/voice_keys.png)
 
 Зайдите в социальное меню Minecraft, чтобы заглушать и изменить громкость игроков. Кнопка `P` по умолчанию
 
-<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/voice_social.png?raw=true" style="width: 854px"/>
+![](/assets/mods/voice_social.png)
 
 Зажмите ПКМ и крутите колёсико мыши, чтобы изменять громкость не заходя в меню
 
-<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/voice_scroll.webp?raw=true" style="width: 854px"/>
+![](/assets/mods/voice_scroll.webp)
 
 ## Значение HUD иконок
 
-<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/voice_hud_icons.png?raw=true" style="width: 854px"/>
+![](/assets/mods/voice_hud_icons.png)
 
 ## Значение иконок над игроками
 
-<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/voice_player_icons.png?raw=true" style="width: 854px"/>
+![](/assets/mods/voice_player_icons.png)
 
 # EmoteCraft
 
-<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/emotecraft.webp?raw=true" style="width: 854px"/>
+![](/assets/mods/emotecraft.webp)
 
 Мод EmoteCraft добавляет анимированные эмоции. Он работает как мод на голосовой чат — вы можете зайти на сервер с ванильного клиента, но чтобы использовать эмоции и видеть эмоции других игроков — вам нужно установить мод для Fabric или Forge
 
-<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/mods/emotecraft_howto.webp?raw=true" style="width: 854px"/>
+![](/assets/mods/emotecraft_howto.webp)
+
 
 1. Нажмите на кнопку `B` по умолчанию, чтобы открыть меню с эмоциями
 2. Кликните по кнопку в правом нижнем углу `Все эмоции` , а затем на кнопку `Настройка эмоций` , чтобы настроить эмоции

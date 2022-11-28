@@ -7,11 +7,11 @@ title: "Ресурспак сервера"
 1. Скачайте [ресурспак](https://github.com/plasmoapp/plasmo-rp-wiki/raw/main/assets/resources/Plasmo_Pack_1.1.0.zip)
 2. Перекиньте его в папку `.minecraft/resourcepacks/`
 3. Активируйте ресурспак в настройках игры
-4. Чтобы работали новые предметы — установите [Optifine](https://optifine.net/home) или [CIT Resewn]([https://github.com/plasmoapp/plasmo-rp-wiki/raw/main/assets/resources/CITResewn-1.0.1+1.18.2_hand+fix.jar](https://modrinth.com/mod/cit-resewn/versions)). 
+4. Чтобы работали новые предметы — установите [Optifine](https://optifine.net/home) или [CIT Resewn](https://modrinth.com/mod/cit-resewn/versions). 
 
 ## Эмоуты в чате
 
-<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/resources/emotes.webp?raw=true" style="width: 800px"/>
+![](/assets/resources/emotes.webp)
 
 Используйте `/emotes` чтобы просмотреть список эмоутов
 

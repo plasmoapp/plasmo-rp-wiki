@@ -18,11 +18,11 @@ Geyser это прокси, которое позволяет зайти с Mine
 
 Зайдите в настройки игры, дальше во вкладку `Профиль` . Сверху показан ваш тег игрока
 
-![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/bedrock/xbox_nick.png?raw=true)
+![](/assets/bedrock/xbox_nick.png?raw=true)
 
 Дальше зайдите на сайт сервера [https://rp.plo.su](https://rp.plo.su), авторизуйтесь и нажмите по иконке или аватару в правом верхнем углу, чтобы открыть меню. Ваш ник на сайте должен совпадать с тегом игрока в Minecraft Bedrock
 
-![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/bedrock/plasmo_nick.png?raw=true)
+![](/assets/bedrock/plasmo_nick.png?raw=true)
 
 ### Мой ник не совпадает, что делать?
 
@@ -32,7 +32,7 @@ Geyser это прокси, которое позволяет зайти с Mine
 
 Перед сменой убедитесь, что вы не находитесь на сервере, и ваш ник не занят. Менять ник можно раз в 3 дня
 
-<img src="https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/bedrock/change_nick.png?raw=true" style="width: 512px"></img>
+![](/assets/bedrock/change_nick.png)
 
 После этого вам придется заходить в Minecraft c Java Edition с таким же ником, потому что ник меняется для обеих платформ. Для этого можно использовать пиратский лаунчер, и ввести туда такой же ник, который вы поставили
 
@@ -42,11 +42,11 @@ Geyser это прокси, которое позволяет зайти с Mine
 
 Чтобы установить пароль, зайдите на наш Discord сервер и найдите бота @Pepega, например в канале с проходками
 
-![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/bedrock/find_pepega.png?raw=true)
+![](/assets/bedrock/find_pepega.png)
 
 Откройте личные сообщения с ботом и напишите команду `!password <пароль>`
 
-![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/bedrock/password.png?raw=true)
+![](/assets/bedrock/password.png)
 
 Если вы установили пароль, то вы сможете авторизоваться на сервере командой `/login <пароль>`  
 
@@ -54,7 +54,7 @@ Geyser это прокси, которое позволяет зайти с Mine
 
 Если вы захотите сбросить пароль, то сможете сделать это командой `!reset` 
 
-![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/bedrock/password_reset.png?raw=true)
+![](/assets/bedrock/password_reset.png)
 
 # Подключитесь к серверу
 
@@ -62,16 +62,16 @@ Geyser это прокси, которое позволяет зайти с Mine
 
 Введите IP, сохраните его, и подключитесь к серверу
 
-![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/bedrock/connect.png?raw=true)
+![](/assets/bedrock/connect.png)
 
 После того, как вы зайдете, вас попросит нажать на ссылку в чате, чтобы авторизоваться
 
-![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/bedrock/login.png?raw=true)
+![](/assets/bedrock/login.png)
 
 Как мы уже говорили раньше, эта авторизация не работает на Bedrock, поэтому вместо этого пишем команду `/login <пароль>` , чтобы авторизоваться через пароль
 
-![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/bedrock/login_command.png?raw=true)
+![](/assets/bedrock/login_command.png)
 
 И вот, наконец-то, вы зашли на сервер
 
-![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/bedrock/done.png?raw=true)
+![](/assets/bedrock/done.png)
