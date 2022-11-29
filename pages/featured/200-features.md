@@ -20,6 +20,8 @@ title: "Механики и команды"
 ![](/assets/features/nonrp.png)
 ![](/assets/features/rp.png)
 
+<details>
+
 <summary>Что такое нонРП и РП</summary>
 
 ### Что такое нонРП
