@@ -10,3 +10,15 @@ title: "Вики Plasmo RP"
 
 - [Discord](https://discord.gg/xVhST4gTFm)
 - [ВКонтакте](https://vk.com/plasmorp)
+
+## Тест
+
+<Collapse summary="Тестовый коллапс">
+
+Пепега
+
+- Говно 1
+- Говно 2
+- Говно 3
+
+</Collapse>
