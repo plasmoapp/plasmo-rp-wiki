@@ -18,11 +18,11 @@ Geyser это прокси, которое позволяет зайти с Mine
 
 Зайдите в настройки игры, дальше во вкладку `Профиль` . Сверху показан ваш тег игрока
 
-![](/assets/bedrock/xbox_nick.png?raw=true)
+![](/assets/bedrock/xbox_nick.png)
 
 Дальше зайдите на сайт сервера [https://rp.plo.su](https://rp.plo.su), авторизуйтесь и нажмите по иконке или аватару в правом верхнем углу, чтобы открыть меню. Ваш ник на сайте должен совпадать с тегом игрока в Minecraft Bedrock
 
-![](/assets/bedrock/plasmo_nick.png?raw=true)
+![](/assets/bedrock/plasmo_nick.png)
 
 ### Мой ник не совпадает, что делать?
 
