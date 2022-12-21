@@ -180,7 +180,7 @@ title: "Механики и команды"
 
 Сообщения синхронизированы с личными сообщениями в игре. Если вы напишите кому-то через `/msg`, `/m`, `/w` или `/r`, то сообщение отправится пользователю на сайт, даже если его нет в игре. И наоборот, можно написать кому-то в игре через сайт.
 
-![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/features/messenger.png?raw=true)
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/features/messenger.jpg?raw=true)
 
 ## Настройки чата
 
@@ -212,7 +212,7 @@ title: "Механики и команды"
 
 # Мир построек и мир ферм
 
-![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/farmworld.png?raw=true)
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/features/farmworld.png?raw=true)
 
 Мир построек и мир ферм — это 2 обычных мира, которые на самом деле являются разными серверами. Миры соединены порталом из плачущего обсидиана
 
