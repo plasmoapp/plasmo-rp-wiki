@@ -26,7 +26,7 @@ title: "Общины"
     
 5. Напишите команду `/set-role <роль> @role`, чтобы указать боту какие роли синхронизировать. Например `/setrole Игрок @[Synced] Player` сделает так, чтобы игроки сервера получали роль `@Игрок Plasmo RP`
     
-![](https://imgur.com/31vAYwX.png)
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/commune/syncroles.jpg?raw=true)
     
 Повторите это для всех ролей, или не повторяйте, указывать все роли необязательно
     
@@ -34,17 +34,17 @@ title: "Общины"
 
 #### Не забудьте включить синхронизацию ролей в настройках бота
 
-![](https://imgur.com/3HPsytK.png)
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/commune/syncrolestoggle.jpg?raw=true)
 
 6. Напишите команду `/settings` , чтобы проверить настройки бота, прежде чем запустить синхронизацию
     
 7. Напишите команду `/everyone-sync`, чтобы синхронизировать всех участников сервера
     
-![](https://imgur.com/m0VdM6H.png)
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/commune/everyonesync.jpg?raw=true)
     
 Сделать это нужно **только один раз**, новые пользователи будут синхронизироваться автоматически. Может занять от двух секунд до двух минут из-за лимитов Discord
     
-![](https://imgur.com/CXym0dW.png)
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/commune/everyonesync_done.jpg?raw=true)
 
 8. Поздравляю, вы настроили бота, и теперь он будет синхронизировать всех участников сервера, и обновлять ники и роли если они поменяются на основном сервере
 
@@ -52,8 +52,8 @@ title: "Общины"
 
 - `/sync @user` — Синхронизирует одного конкретного пользователя
 
-![](https://imgur.com/RUMXbTN.png)
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/commune/sync.jpg?raw=true)
 
 - `/help`
     
-![](https://imgur.com/6XeY9IO.png)
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/commune/help.jpg?raw=true)

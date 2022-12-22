@@ -45,7 +45,7 @@ title: "Обновление"
 
 Обычные фейерверки не будут работать с элитрами. Чтобы получить специальные, нажмите ПКМ по столу лучника: 
 
-![](https://imgur.com/txVcmaH.png)
+![](https://github.com/plasmoapp/plasmo-rp-wiki/blob/main/assets/update/fireworks.png?raw=true)
 
 ### Ферма шалкеров больше не работает
 Зато каждый шалкер в энде гарантированно дропает 2 шела.
